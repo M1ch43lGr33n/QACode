@@ -1,2 +1,2 @@
 # QACode
-Any code i require
+Any code I require.
